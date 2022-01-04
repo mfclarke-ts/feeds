@@ -1,6 +1,0 @@
-[pointfreeco]
-title = "pointfree"
-url = "https://www.pointfree.co/"
-entrySelector = ".row > .col-m.col-d-7.col-m-12"
-titleSelector = "h1"
-linkSelector = ".m-mt3 > a"
