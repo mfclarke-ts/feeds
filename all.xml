@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-02T05:35:38.106Z</updated>
+    <updated>2022-07-02T17:34:34.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Concurrency's Future: Structured and Unstructured (pointfree)]]></title>
