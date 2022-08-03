@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-02T17:43:44.836Z</updated>
+    <updated>2022-08-03T05:52:38.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Async Composable Architecture: Effect Lifetimes (pointfree)]]></title>
