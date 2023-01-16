@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T05:31:29.788Z</updated>
+    <updated>2023-01-16T17:31:25.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Modern SwiftUI: Dependencies & Testing, Part 2 (pointfree)]]></title>
+        <id>https://www.pointfree.co/episodes/ep220-modern-swiftui-dependencies-testing-part-2</id>
+        <link href="https://www.pointfree.co/episodes/ep220-modern-swiftui-dependencies-testing-part-2"/>
+        <updated>2023-01-16T17:31:24.439Z</updated>
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#220 • Monday Jan 16, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep220-modern-swiftui-dependencies-testing-part-2">Modern SwiftUI: Dependencies &amp; Testing, Part 2</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We conclude the series by taking control of the last two dependencies: persistence and speech recognition. We’ll make use of even more features of our new Dependencies library and we’ll write tests for our features that would have been impossible before.</p>
+</div></div><div class="m-mt3"><a href="/episodes/ep220-modern-swiftui-dependencies-testing-part-2" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (40 min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern SwiftUI: Dependencies & Testing, Part 1 (pointfree)]]></title>
         <id>https://www.pointfree.co/episodes/ep219-modern-swiftui-dependencies-testing-part-1</id>
