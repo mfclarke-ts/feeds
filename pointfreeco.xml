@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.pointfree.co/</id>
     <title>pointfree</title>
-    <updated>2023-02-13T05:31:34.470Z</updated>
+    <updated>2023-02-13T17:32:44.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d3rccdn33rt8ze.cloudfront.net/favicons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Composable Navigation: Tabs]]></title>
+        <id>https://www.pointfree.co/episodes/ep222-composable-navigation-tabs</id>
+        <link href="https://www.pointfree.co/episodes/ep222-composable-navigation-tabs"/>
+        <updated>2023-02-13T17:32:44.163Z</updated>
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#222 • Monday Feb 13, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep222-composable-navigation-tabs">Composable Navigation: Tabs</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>It’s finally time to tackle navigation in the Composable Architecture. We’ll port the
+Inventory app we first built to understand SwiftUI navigation, which will push us to
+understand what makes the architecture “composable,” how it facilitates communication between
+features, and testing.</p>
+</div></div><div class="m-mt3"><a href="/episodes/ep222-composable-navigation-tabs" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (1hr 3min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Point-Free Live: Dependencies & Stacks]]></title>
         <id>https://www.pointfree.co/episodes/ep221-point-free-live-dependencies-stacks</id>
