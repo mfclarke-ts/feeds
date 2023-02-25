@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-24T17:33:15.116Z</updated>
+    <updated>2023-02-25T05:31:35.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Composable Navigation: Alerts & Dialogs (pointfree)]]></title>
