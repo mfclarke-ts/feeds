@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T17:31:50.618Z</updated>
+    <updated>2023-05-01T05:31:18.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Composable Stacks: Multiple Destinations (pointfree)]]></title>
+        <id>https://www.pointfree.co/episodes/ep233-composable-stacks-multiple-destinations</id>
+        <link href="https://www.pointfree.co/episodes/ep233-composable-stacks-multiple-destinations"/>
+        <updated>2023-05-01T05:31:17.557Z</updated>
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#233 • Monday May 1, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep233-composable-stacks-multiple-destinations">Composable Stacks: Multiple Destinations</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>Let’s insert a new feature into the navigation stack. We’ll take things step-by-step, employing an enum to hold multiple features in a single package, and making small changes to how we use our existing APIs before sketching out all-new tools dedicated to stack navigation.</p>
+</div></div><div class="m-mt3"><a href="/episodes/ep233-composable-stacks-multiple-destinations" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (30min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Composable Stacks: Multiple Layers (pointfree)]]></title>
         <id>https://www.pointfree.co/episodes/ep232-composable-stacks-multiple-layers</id>
