@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.pointfree.co/</id>
     <title>pointfree</title>
-    <updated>2023-05-21T17:31:30.666Z</updated>
+    <updated>2023-05-22T05:31:39.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d3rccdn33rt8ze.cloudfront.net/favicons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Composable Stacks: Effect Cancellation]]></title>
+        <id>https://www.pointfree.co/episodes/ep236-composable-stacks-effect-cancellation</id>
+        <link href="https://www.pointfree.co/episodes/ep236-composable-stacks-effect-cancellation"/>
+        <updated>2023-05-22T05:31:38.034Z</updated>
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#236 • Monday May 22, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep236-composable-stacks-effect-cancellation">Composable Stacks: Effect Cancellation</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We round out the functionality of the Composable Architecture’s stack navigation tools. This includes automatic cancellation of a child feature’s effects when it’s popped off the stack, and the ability for a child feature to pop itself. Along the way we will clean up the domain modeling and user experience of working with these tools.</p>
+</div></div><div class="m-mt3"><a href="/episodes/ep236-composable-stacks-effect-cancellation" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (37min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Composable Stacks: State Ergonomics]]></title>
         <id>https://www.pointfree.co/episodes/ep235-composable-stacks-state-ergonomics</id>
@@ -91,11 +99,11 @@ stacks into the library’s navigation tools.</p>
 </div></div><div class="m-mt3"><a href="/episodes/ep226-composable-navigation-unification" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (28min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Composable Navigation: Effect cancellation]]></title>
+        <title type="html"><![CDATA[Composable Navigation: Effect Cancellation]]></title>
         <id>https://www.pointfree.co/episodes/ep225-composable-navigation-behavior</id>
         <link href="https://www.pointfree.co/episodes/ep225-composable-navigation-behavior"/>
         <updated>2023-03-06T05:32:11.347Z</updated>
-        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#225 • Monday Mar 6, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep225-composable-navigation-behavior">Composable Navigation: Effect cancellation</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We add superpowers to the navigation tools of the <a href="http://github.com/pointfreeco/swift-composable-architecture">Composable Architecture</a>, including
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#225 • Monday Mar 6, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep225-composable-navigation-behavior">Composable Navigation: Effect Cancellation</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We add superpowers to the navigation tools of the <a href="http://github.com/pointfreeco/swift-composable-architecture">Composable Architecture</a>, including
 automatically cancelling a child feature’s effects upon dismissal, and even letting child
 features dismiss themselves! Plus, we look at how “non-exhaustive” testing simplifies
 navigation-based tests.</p>
