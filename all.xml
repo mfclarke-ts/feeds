@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-07T05:31:21.855Z</updated>
+    <updated>2023-12-07T17:31:11.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Observable Architecture: Structural Identity (pointfree)]]></title>
@@ -21,7 +21,7 @@ what it means for a struct to be observable.</p>
         <id>https://www.pointfree.co/episodes/ep259-observable-architecture-sneak-peek</id>
         <link href="https://www.pointfree.co/episodes/ep259-observable-architecture-sneak-peek"/>
         <updated>2023-11-27T05:31:09.892Z</updated>
-        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#259 • Monday Nov 27, 2023 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep259-observable-architecture-sneak-peek">Observable Architecture: Sneak Peek</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We’re about to completely revolutionize the Composable Architecture with Swift’s new
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#259 • Monday Nov 27, 2023 • Free Episode</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep259-observable-architecture-sneak-peek">Observable Architecture: Sneak Peek</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>We’re about to completely revolutionize the Composable Architecture with Swift’s new
 Observation framework! But first, a sneak peek: we’ll take the public beta (available today!)
 for a spin to see how the concept of a “view store” completely vanishes when using the new
 tools.</p>
