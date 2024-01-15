@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.pointfree.co/</id>
     <title>pointfree</title>
-    <updated>2024-01-14T17:31:11.952Z</updated>
+    <updated>2024-01-15T05:32:26.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d3rccdn33rt8ze.cloudfront.net/favicons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Observable Architecture: Observing Navigation]]></title>
+        <id>https://www.pointfree.co/episodes/ep264-observable-architecture-observing-navigation</id>
+        <link href="https://www.pointfree.co/episodes/ep264-observable-architecture-observing-navigation"/>
+        <updated>2024-01-15T05:32:25.681Z</updated>
+        <content type="html"><![CDATA[<div class="d-pl4 d-pr4 d-pt4 d-pb4 m-pl3 m-pr3 m-pt3 m-pb3 bg-white"><strong class="fg-black bold ts-m-r0_75 lh-1 caps">#264 • Monday Jan 15, 2024 • Subscriber-only</strong><h1 class="fg-black bold ts-d-r1_5 ts-m-r1_25 lh-2 m-mt2"><a href="/episodes/ep264-observable-architecture-observing-navigation">Observable Architecture: Observing Navigation</a></h1><div class="body-leading fg-black normal lh-4"><div class=" md-ctn"><p>Observation has allowed us to get rid of a number of view wrappers the Composable Architecture
+used to require in favor of vanilla SwiftUI views, instead, but we still depend on a zoo of
+view modifiers to drive navigation. Let’s rethink all of these helpers and see if we can trade
+them out for simpler, vanilla SwiftUI view modifiers, instead.</p>
+</div></div><div class="m-mt3"><a href="/episodes/ep264-observable-architecture-observing-navigation" class="align-middle pf-link-purple fg-black normal h5 lh-4">Watch episode (22min)<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgo8cG9seWdvbiBpZD0icmlnaHQiIGZpbGw9IiM5NzRERkYiIHBvaW50cz0iOS41NzQyMTg3NSAwIDE5LjM4MjgxMjUgOS44MDg1OTM3NSA5LjU3NDIxODc1IDE5LjYxNzE4NzUgOC4yMzgyODEyNSAxOC4yOTI5Njg4IDE1Ljc4NTE1NjIgMTAuNzQ2MDkzOCAwIDEwLjc0NjA5MzggMCA4Ljg3MTA5Mzc1IDE1Ljc4NTE1NjIgOC44NzEwOTM3NSA4LjIzODI4MTI1IDEuMzI0MjE4NzUiPjwvcG9seWdvbj4KPC9nPgo8L3N2Zz4=" alt="" class="align-middle m-ml1" width="16" height="16"></a></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observable Architecture: Observing Collections]]></title>
         <id>https://www.pointfree.co/episodes/ep263-observable-architecture-observing-collections</id>
