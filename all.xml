@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-12T17:31:08.289Z</updated>
+    <updated>2024-04-13T05:31:19.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Shared State: User Defaults, Part 2 (pointfree)]]></title>
