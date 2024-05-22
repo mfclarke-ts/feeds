@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mfclarke-ts.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T17:31:07.723Z</updated>
+    <updated>2024-05-22T05:33:33.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Shared State in Practice: isowords, Part 2 (pointfree)]]></title>
